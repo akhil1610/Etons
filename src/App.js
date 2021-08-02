@@ -1,12 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Main from './page/main/Main'
 
 function App() {
   return (
-    <div className="App">
-      <h1>AKhil is best </h1>
-      <h1>AKhil is going to be millionaire soon</h1>
-    </div>
+   <Main/>
   );
 }
 
