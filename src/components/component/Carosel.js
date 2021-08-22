@@ -1,7 +1,6 @@
 import React from 'react'
-import 'nav.css'
 
-function Nav() {
+function Carosel() {
   return (
     <div>
       
@@ -9,4 +8,4 @@ function Nav() {
   )
 }
 
-export default Nav
+export default Carosel

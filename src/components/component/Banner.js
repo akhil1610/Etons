@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Main() {
+function Banner() {
   return (
     <div>
-      <h1>akhil</h1>
+      
     </div>
   )
 }
 
-export default Main
+export default Banner
