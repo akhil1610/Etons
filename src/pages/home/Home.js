@@ -1,12 +1,16 @@
 import React from 'react';
-import InputComponent from '../../components/component/InputComponent/InputComponent';
+// import InputComponent from '../../components/component/InputComponent/InputComponent';
 import './App.css';
+import Cards from '../cards/cards'
 
 
 function Home() {
   return (
-    
-     <InputComponent label="akhil"/>
+    <>
+    <Cards/>
+   
+    </>
+    //  <InputComponent label="akhil"/>
     
   );
 }
