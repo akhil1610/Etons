@@ -1,12 +1,12 @@
 import React from 'react'
-import  logo  from '../../assets/logo/ginLogo.jpg';
+import  logo  from '../../assets/logo/logo.png';
 
 function Nav() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
-          <img src={logo} alt="logo" width="100" height="60"/>
+          <img src={logo} alt="logo" width="18%" />
           <a className="navbar-brand" href="www.google.com">Amazon</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
